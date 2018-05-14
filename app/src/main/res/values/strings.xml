@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tourist guide for Brno</string>
+
+    <string name="fragment_sights">Sights</string>
+    <string name="fragment_accommodations">Accommodations</string>
+    <string name="fragment_activities">Activities</string>
+    <string name="fragment_food">Food</string>
+
+    <string name="brno_desc">Brno (German: Brünn, Moravian dialect: Štatl) is the second largest city in the Czech Republic and the largest city in the historical Moravian region. Founded around the year 1000, the city acted as one of historical capitals of the region, and today is home to many institutions related to Moravian history and culture. At the same time, Brno represents the administrative center of the contemporary South Moravian Region, and is the headquarters of the republic\'s judicial system. With a population around 380,000, Brno is located in a beautiful natural environment between South Moravian vineyards and the Moravian Karst, and is an easy drive to the nearby Austrian border. </string>
+
+    <string name="my_small_text">Lorem ipsum dolor sit amet, possit apeirian quaerendum et mea, qui eu voluptatibus.</string>
+    <string name="my_long_text">His laudem corrumpit ne, sit ludus decore gubergren ex. Est nostro eligendi ea. Cu pri pertinax democritum, ipsum euismod imperdiet eu nec, diceret eripuit tincidunt ius an. Vero fastidii pri at. An vix harum saepe maiestatis, summo eligendi reprehendunt has an.   Morbi scelerisque luctus velit. Aliquam erat volutpat. Vivamus porttitor turpis ac leo. Mauris tincidunt sem sed arcu. In laoreet, magna id viverra tincidunt, sem odio bibendum justo, vel imperdiet sapien wisi sed libero. In sem justo, commodo ut, suscipit at, pharetra vitae, orci. Nulla est. Quisque porta. Maecenas libero. Nullam justo enim, consectetuer nec, ullamcorper ac, vestibulum in, elit. Nulla est. Nunc dapibus tortor vel mi dapibus sollicitudin.   Morbi scelerisque luctus velit. Aliquam erat volutpat. Vivamus porttitor turpis ac leo. Mauris tincidunt sem sed arcu. In laoreet, magna id viverra tincidunt, sem odio bibendum justo, vel imperdiet sapien wisi sed libero. In sem justo, commodo ut, suscipit at, pharetra vitae, orci. Nulla est. Quisque porta. Maecenas libero. Nullam justo enim, consectetuer nec, ullamcorper ac, vestibulum in, elit. Nulla est. Nunc dapibus tortor vel mi dapibus sollicitudin.</string>
+</resources>
